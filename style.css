@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    padding-top: 4%;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.page {
+    border-color: grey;
+    border-style: solid;
+    border-width: 5px;
+    height: 300px;
+    width: 700px;
+}
+
+.header {
+    background-color: rgb(14, 85, 143);
+    height: 25%
+}
+
+.words {
+    margin: 8% 0% 0% 2%;
+}
+
+.location {
+    display: flex;
+    margin: 10px 0px 10px 0;
+}
+
+.location img {
+    height: 20px;
+    width: 12px;
+    margin-right: 10px;
+}
+
+.edit {
+    display: flex;
+    width: 100px;
+    margin: 12px 0px 10px 0px;
+}
+
+.edit img {
+    height: 20px;
+    width: 20px;
+    margin-right: 7px;
+}
+
+.user {
+    height: 100px;
+    width: 100px;
+    margin: 3% 0% 0% 2%;
+
+}
+
+
